@@ -1,6 +1,6 @@
 #>>>>>>>>>>Variables<<<<<<<<<
 CXX = g++
-CXXFLAGS = -std=c++11 -Wall -g
+CXXFLAGS = -std=c++14 -Wall -g
 LDFLAGS = -lgtest -lgtest_main -pthread
 BUILD_DIR = dist
 TEST_DIR = tests
